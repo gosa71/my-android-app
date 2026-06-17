@@ -1,0 +1,6 @@
+{
+  "name": "RT",
+  "description": "Уютный семейный мессенджер с чатом, календарем событий, общим списком задач, трекером безопасных зон и интеграцией с Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
